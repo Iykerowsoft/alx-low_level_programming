@@ -15,7 +15,7 @@ char low;
 for (d = '0' ; d <= '9'; d++)
 {
 putchar(d);
-for (d l = '9')
+if (d l = '9')
 {
 putchar(',');
 putchar(' ');
